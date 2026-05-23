@@ -1,0 +1,8 @@
+# 依赖目录
+node_modules/
+.DS_Store
+Thumbs.db
+*.log
+
+# 测试文件目录
+test/
