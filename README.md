@@ -1,4 +1,4 @@
-# GPT Auth Bridge
+# GPT Auth Bridge（已失效）
 
 **纯本地小工具** — 一键下载 `index.html`，在浏览器中打开即可使用，所有处理在浏览器内存中完成，不部署到任何服务器。
 
